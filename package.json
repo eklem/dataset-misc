@@ -1,0 +1,23 @@
+{
+  "name": "dataset-misc",
+  "version": "0.0.7",
+  "description": "miscellaneous datasets for @eklem",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eklem/dataset-misc.git"
+  },
+  "keywords": [
+    "data",
+    "test"
+  ],
+  "author": "Espen Klem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eklem/dataset-misc/issues"
+  },
+  "homepage": "https://github.com/eklem/dataset-misc#readme"
+}
