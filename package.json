@@ -1,6 +1,6 @@
 {
   "name": "dataset-misc",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "miscellaneous datasets for @eklem",
   "main": "README.md",
   "scripts": {
